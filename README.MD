@@ -1,4 +1,5 @@
 # Otomoto explorer
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomecki/otomoto-explorer/master?filepath=otomoto-analysis.ipynb)
 
 This repo contains the code used for analysis of otomoto offers some time ago.
 
